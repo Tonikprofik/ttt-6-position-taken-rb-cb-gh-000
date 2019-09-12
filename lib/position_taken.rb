@@ -10,4 +10,4 @@ def position_taken?(board,index)
   end
 end
 
-position_taken?("x","8")
+position_taken?("a","8")
